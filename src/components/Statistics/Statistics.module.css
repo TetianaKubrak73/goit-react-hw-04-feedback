@@ -1,0 +1,22 @@
+.good {
+  color: green;
+  font-size: 20px;
+}
+.neutral {
+  color: rebeccapurple;
+  font-size: 20px;
+}
+.bad {
+  color: brown;
+  font-size: 20px;
+}
+.total {
+  color: blue;
+  font-size: 22px;
+  font-weight: bold;
+}
+.percentage {
+  color: red;
+  font-size: 22px;
+  font-weight: bold;
+}
